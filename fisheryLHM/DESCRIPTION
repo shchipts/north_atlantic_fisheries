@@ -7,6 +7,7 @@ Author: Anna Shchiptsova [aut, cre],
   International Institute for Applied Systems Analysis [cph]
 Maintainer: Anna Shchiptsova <shchipts@iiasa.ac.at>
 Description: Bioenergetically driven age-, size-, and stage-specific model of a fish stock.
+License: CC BY-ND 4.0 + file LICENSE
 Encoding: UTF-8
 Depends: 
     R (>= 4.1.2)
